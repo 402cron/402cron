@@ -1,0 +1,17 @@
+{
+  "name": "402cron-client-example",
+  "private": true,
+  "type": "module",
+  "description": "Buy 402cron credits with x402 (USDC on Base), register and verify an endpoint, create a cron task.",
+  "scripts": {
+    "start": "node buy-and-schedule.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@x402/core": "^2.24.0",
+    "@x402/evm": "^2.24.0",
+    "viem": "^2.56.0"
+  }
+}
