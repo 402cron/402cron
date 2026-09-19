@@ -20,6 +20,10 @@ An agent can set it up on its own: no account, no card, no human in the loop. Pa
 - https://402cron.com/api/pricing — the tariff, machine-readable
 - https://402cron.com/terms — terms · abuse@402cron.com
 
+## Further reading
+
+- [Nobody complains: 28 silent failures of a paid API for AI agents](https://402cron.com/blog/silent-failures-paid-agent-api): x402 payment headers, agent catalogs, A2A cards and calling out from Cloudflare Workers, each with the cause, the fix and the check that catches it. Useful if you are building your own paid API for agents.
+
 ## Pricing
 
 | Pack | Price | Deliveries | Per delivery |
