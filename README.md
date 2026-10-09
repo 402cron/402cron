@@ -29,7 +29,7 @@ An agent can set it up on its own: no account, no card, no human in the loop. Pa
 | Pack | Price | Deliveries | Per delivery |
 |---|---|---|---|
 | `trial` | $0.02 | 20 | $0.001 |
-| `starter` | $2 | 4,000 | $0.0005 |
+| `starter` | $1 | 2,000 | $0.0005 |
 | `month` | $25 | 50,000 | $0.0005 |
 
 The balance counts deliveries, not money, and never expires. Each delivery **attempt** uses one
